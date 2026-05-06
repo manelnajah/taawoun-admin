@@ -1,0 +1,1 @@
+export const ADMIN_ID = '93ddcd0b-b59a-4cf3-b40a-d05eb129b39b';
